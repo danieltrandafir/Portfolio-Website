@@ -1,8 +1,8 @@
 :root {
-    --bg--secondary: #c0c7b3;
-    --bg--mixcol: linear-gradient(to right,rgb(177, 178, 174),
-    rgb(175, 172, 160),
-    rgb(147, 161, 133),
+    --bg--secondary: #e7eedecd;
+    --bg--mixcol: linear-gradient(to right,rgb(225, 226, 245),
+    rgb(244, 253, 254),
+    rgb(190, 243, 235),
     rgba(160, 188, 194, 1));
     --bg--main: #EEEBDD;
     --bg--offwhite: #FAFAFA;
@@ -341,6 +341,13 @@ aside .container .page-title h1 span {
     margin-left: 4px;
     display: inline-block;
     font-weight: 300;
+}
+
+.about .personal-info .info-item p span a {
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--skin-color);
 }
 
 .about .skills {
