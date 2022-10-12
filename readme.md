@@ -1,7 +1,7 @@
 # Portfolio Website
 
 > Home page.
-> To see a Live demo click [_here_](https://github.com/danieltrandafir/Portfolio-Website.git). <!-- If you have the project hosted somewhere, include the link here. -->
+> To see a Live demo click [_here_](https://danieltrandafir.github.io/Portfolio-Website/). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
 
